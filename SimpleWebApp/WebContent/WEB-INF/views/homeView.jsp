@@ -13,7 +13,7 @@
 
 	<h3>Home Page</h3>
 
-	This is demo Simple web application using jsp,servlet &amp; Jdbc.
+	This is demo Simple web application using JSP,SERVLET &amp; JDBC.
 	
 
 	<jsp:include page="_footer.jsp"></jsp:include>
